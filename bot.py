@@ -9,6 +9,8 @@ from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandle
 from knowledge import load_manuals, search
 from storage import Store
 
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 log = logging.getLogger(__name__)
 FALLBACK = "it's out of my knowledge"
