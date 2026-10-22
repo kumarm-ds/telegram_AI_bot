@@ -1,0 +1,32 @@
+Kaltrix Industrial Systems
+==========================
+Preventive Maintenance Schedule
+Product Line: Industrial Robotics
+Model: KTX-RA6-200
+Document ref: KTX-DOC-KTX-RA6-200-PRE
+----------------------------------------------------------------------
+
+1. MAINTENANCE INTERVALS
+
+  - Daily: Visual inspection for leaks, unusual noise, or vibration.
+  - Weekly: Check and log key operating parameters against baseline.
+  - Monthly: Inspect and clean filters/sensors listed in the Spare Parts Catalog.
+  - Every 500 operating hours: Replace consumable items (see Spare Parts Catalog, Section 1).
+  - Every 2,000 operating hours: Full inspection by a certified Kaltrix service engineer.
+  - Annually: Calibration check of all sensors and safety interlocks.
+
+2. RECOMMENDED CONSUMABLES PER SERVICE CYCLE
+
+  - KTX-RA6-J3-MOTOR: Joint 3 servo motor assembly
+  - KTX-RA6-PENDANT: Teach pendant replacement unit
+  - KTX-RA6-CABLE-J2J6: Internal wiring harness, joints 2-6
+
+3. NOTE
+
+Failure to follow this maintenance schedule for the KTX-RA6-200 may affect eligibility for warranty claims. Maintenance records should be retained and made available to Kaltrix service engineers upon request.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-RA6-200 and its direct variants only.

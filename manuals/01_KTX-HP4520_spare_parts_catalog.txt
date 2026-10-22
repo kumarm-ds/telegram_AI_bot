@@ -1,0 +1,30 @@
+Kaltrix Industrial Systems
+==========================
+Spare Parts Catalog
+Product Line: Hydraulic Systems
+Model: KTX-HP4520
+Document ref: KTX-DOC-KTX-HP4520-SPA
+----------------------------------------------------------------------
+
+1. RECOMMENDED SPARE PARTS
+
+  KTX-HP-FLT-10M — Return line filter element, 10 micron — List Price: INR 2,400
+  KTX-HP-SEAL-KIT-A — Main pump shaft seal kit — List Price: INR 1,250
+  KTX-HP-PT2 — Pressure transducer, 0-350 bar — List Price: INR 7,600
+  KTX-HP-SOL-24V — Directional solenoid valve, 24VDC — List Price: INR 5,200
+  KTX-HP-COOLER-45 — Oil cooler assembly, 45kW rated — List Price: INR 5,200
+
+2. ORDERING INFORMATION
+
+  Orders can be placed via the Kaltrix Customer Portal or by emailing techsupport@kaltrix-industrial.example with the part number, quantity, and the KTX-HP4520 unit serial number. Standard lead time is 5-10 working days for parts held in the Oragadam warehouse; non-stock items may take 3-4 weeks.
+
+3. MINIMUM RECOMMENDED SPARES HOLDING (for sites with 1-2 units)
+
+  - KTX-HP-FLT-10M: 1 unit on-site recommended
+  - KTX-HP-SEAL-KIT-A: 1 unit on-site recommended
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-HP4520 and its direct variants only.

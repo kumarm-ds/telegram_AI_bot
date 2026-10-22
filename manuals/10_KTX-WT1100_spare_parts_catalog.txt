@@ -1,0 +1,30 @@
+Kaltrix Industrial Systems
+==========================
+Spare Parts Catalog
+Product Line: Water Treatment Systems
+Model: KTX-WT1100
+Document ref: KTX-DOC-KTX-WT1100-SPA
+----------------------------------------------------------------------
+
+1. RECOMMENDED SPARE PARTS
+
+  KTX-WT-SED-FLT — Sediment pre-filter cartridge, 5 micron — List Price: INR 9,100
+  KTX-WT-RO-MEM — RO membrane element, 4040 series — List Price: INR 5,200
+  KTX-WT-UVLAMP — UV sterilization lamp — List Price: INR 15,800
+  KTX-WT-CARBON-FLT — Activated carbon filter cartridge — List Price: INR 12,400
+  KTX-WT-COND-SENSOR — Conductivity sensor probe — List Price: INR 15,800
+
+2. ORDERING INFORMATION
+
+  Orders can be placed via the Kaltrix Customer Portal or by emailing techsupport@kaltrix-industrial.example with the part number, quantity, and the KTX-WT1100 unit serial number. Standard lead time is 5-10 working days for parts held in the Oragadam warehouse; non-stock items may take 3-4 weeks.
+
+3. MINIMUM RECOMMENDED SPARES HOLDING (for sites with 1-2 units)
+
+  - KTX-WT-SED-FLT: 1 unit on-site recommended
+  - KTX-WT-RO-MEM: 1 unit on-site recommended
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-WT1100 and its direct variants only.

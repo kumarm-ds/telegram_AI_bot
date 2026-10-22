@@ -1,0 +1,32 @@
+Kaltrix Industrial Systems
+==========================
+Frequently Asked Questions
+Product Line: Industrial Robotics
+Model: KTX-RA6-200
+Document ref: KTX-DOC-KTX-RA6-200-FRE
+----------------------------------------------------------------------
+
+Q1: What is the standard warranty period for the KTX-RA6-200?
+A1: The standard warranty is 24 months from the date of commissioning, provided the maintenance schedule has been followed. See the Warranty Terms document for full details.
+
+Q2: Where can I find the error code list for the KTX-RA6-200?
+A2: The full list of diagnostic codes is in the Troubleshooting Guide for this model, using the RA6 prefix.
+
+Q3: How do I order spare parts?
+A3: Spare parts can be ordered through the Kaltrix Customer Portal or by contacting techsupport@kaltrix-industrial.example with the part number and unit serial number.
+
+Q4: Can I have a third party service my unit?
+A4: Non-Kaltrix-certified service may void your warranty. Refer to the Warranty Terms document before authorizing third-party work.
+
+Q5: How often should preventive maintenance be performed?
+A5: Refer to the Preventive Maintenance Schedule document for this model — intervals range from daily checks to annual calibration.
+
+Q6: Who do I contact for urgent breakdowns?
+A6: Call the Kaltrix Technical Support line at +91-44-6821-0099 and have your unit serial number and the on-screen error code ready.
+
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-RA6-200 and its direct variants only.

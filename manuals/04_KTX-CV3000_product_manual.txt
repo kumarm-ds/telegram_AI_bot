@@ -1,0 +1,39 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: Material Handling
+Model: KTX-CV3000
+Document ref: KTX-DOC-KTX-CV3000-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-CV3000 is a heavy-duty belt conveyor system designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Belt Width: 900 mm
+  - Max Load Capacity: 3,000 kg/m run
+  - Belt Speed Range: 0.2 - 2.5 m/s (VFD controlled)
+  - Drive Motor: 7.5 kW, 415V
+  - Frame Material: Hot-dip galvanized steel
+  - Standard Section Length: 3 m (modular, up to 60m runs)
+  - Incline Capability: Up to 18°
+  - Control: Kaltrix ConveyLogic PLC panel
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-CV3000 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-CV3000 and its direct variants only.

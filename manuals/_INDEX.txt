@@ -1,0 +1,103 @@
+Kaltrix Industrial Systems — Synthetic Document Set Index
+==================================================
+
+01_KTX-HP4520_product_manual.txt                        | Hydraulic Power Pack                     | KTX-HP4520      | Product Manual
+01_KTX-HP4520_installation_guide.txt                    | Hydraulic Power Pack                     | KTX-HP4520      | Installation Guide
+01_KTX-HP4520_troubleshooting_guide.txt                 | Hydraulic Power Pack                     | KTX-HP4520      | Troubleshooting Guide
+01_KTX-HP4520_maintenance_schedule.txt                  | Hydraulic Power Pack                     | KTX-HP4520      | Maintenance Schedule
+01_KTX-HP4520_spare_parts_catalog.txt                   | Hydraulic Power Pack                     | KTX-HP4520      | Spare Parts Catalog
+01_KTX-HP4520_safety_bulletin.txt                       | Hydraulic Power Pack                     | KTX-HP4520      | Safety Bulletin
+01_KTX-HP4520_faq.txt                                   | Hydraulic Power Pack                     | KTX-HP4520      | FAQ
+01_KTX-HP4520_warranty_terms.txt                        | Hydraulic Power Pack                     | KTX-HP4520      | Warranty Terms
+01_KTX-HP4520_service_bulletin.txt                      | Hydraulic Power Pack                     | KTX-HP4520      | Service Bulletin
+01_KTX-HP4520_operator_quick_reference.txt              | Hydraulic Power Pack                     | KTX-HP4520      | Operator Quick Reference
+02_KTX-CNC880_product_manual.txt                        | CNC Vertical Machining Center            | KTX-CNC880      | Product Manual
+02_KTX-CNC880_installation_guide.txt                    | CNC Vertical Machining Center            | KTX-CNC880      | Installation Guide
+02_KTX-CNC880_troubleshooting_guide.txt                 | CNC Vertical Machining Center            | KTX-CNC880      | Troubleshooting Guide
+02_KTX-CNC880_maintenance_schedule.txt                  | CNC Vertical Machining Center            | KTX-CNC880      | Maintenance Schedule
+02_KTX-CNC880_spare_parts_catalog.txt                   | CNC Vertical Machining Center            | KTX-CNC880      | Spare Parts Catalog
+02_KTX-CNC880_safety_bulletin.txt                       | CNC Vertical Machining Center            | KTX-CNC880      | Safety Bulletin
+02_KTX-CNC880_faq.txt                                   | CNC Vertical Machining Center            | KTX-CNC880      | FAQ
+02_KTX-CNC880_warranty_terms.txt                        | CNC Vertical Machining Center            | KTX-CNC880      | Warranty Terms
+02_KTX-CNC880_service_bulletin.txt                      | CNC Vertical Machining Center            | KTX-CNC880      | Service Bulletin
+02_KTX-CNC880_operator_quick_reference.txt              | CNC Vertical Machining Center            | KTX-CNC880      | Operator Quick Reference
+03_KTX-RA6-200_product_manual.txt                       | Six-Axis Robotic Arm                     | KTX-RA6-200     | Product Manual
+03_KTX-RA6-200_installation_guide.txt                   | Six-Axis Robotic Arm                     | KTX-RA6-200     | Installation Guide
+03_KTX-RA6-200_troubleshooting_guide.txt                | Six-Axis Robotic Arm                     | KTX-RA6-200     | Troubleshooting Guide
+03_KTX-RA6-200_maintenance_schedule.txt                 | Six-Axis Robotic Arm                     | KTX-RA6-200     | Maintenance Schedule
+03_KTX-RA6-200_spare_parts_catalog.txt                  | Six-Axis Robotic Arm                     | KTX-RA6-200     | Spare Parts Catalog
+03_KTX-RA6-200_safety_bulletin.txt                      | Six-Axis Robotic Arm                     | KTX-RA6-200     | Safety Bulletin
+03_KTX-RA6-200_faq.txt                                  | Six-Axis Robotic Arm                     | KTX-RA6-200     | FAQ
+03_KTX-RA6-200_warranty_terms.txt                       | Six-Axis Robotic Arm                     | KTX-RA6-200     | Warranty Terms
+03_KTX-RA6-200_service_bulletin.txt                     | Six-Axis Robotic Arm                     | KTX-RA6-200     | Service Bulletin
+03_KTX-RA6-200_operator_quick_reference.txt             | Six-Axis Robotic Arm                     | KTX-RA6-200     | Operator Quick Reference
+04_KTX-CV3000_product_manual.txt                        | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Product Manual
+04_KTX-CV3000_installation_guide.txt                    | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Installation Guide
+04_KTX-CV3000_troubleshooting_guide.txt                 | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Troubleshooting Guide
+04_KTX-CV3000_maintenance_schedule.txt                  | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Maintenance Schedule
+04_KTX-CV3000_spare_parts_catalog.txt                   | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Spare Parts Catalog
+04_KTX-CV3000_safety_bulletin.txt                       | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Safety Bulletin
+04_KTX-CV3000_faq.txt                                   | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | FAQ
+04_KTX-CV3000_warranty_terms.txt                        | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Warranty Terms
+04_KTX-CV3000_service_bulletin.txt                      | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Service Bulletin
+04_KTX-CV3000_operator_quick_reference.txt              | Heavy-Duty Belt Conveyor System          | KTX-CV3000      | Operator Quick Reference
+05_KTX-AC750_product_manual.txt                         | Rotary Screw Air Compressor              | KTX-AC750       | Product Manual
+05_KTX-AC750_installation_guide.txt                     | Rotary Screw Air Compressor              | KTX-AC750       | Installation Guide
+05_KTX-AC750_troubleshooting_guide.txt                  | Rotary Screw Air Compressor              | KTX-AC750       | Troubleshooting Guide
+05_KTX-AC750_maintenance_schedule.txt                   | Rotary Screw Air Compressor              | KTX-AC750       | Maintenance Schedule
+05_KTX-AC750_spare_parts_catalog.txt                    | Rotary Screw Air Compressor              | KTX-AC750       | Spare Parts Catalog
+05_KTX-AC750_safety_bulletin.txt                        | Rotary Screw Air Compressor              | KTX-AC750       | Safety Bulletin
+05_KTX-AC750_faq.txt                                    | Rotary Screw Air Compressor              | KTX-AC750       | FAQ
+05_KTX-AC750_warranty_terms.txt                         | Rotary Screw Air Compressor              | KTX-AC750       | Warranty Terms
+05_KTX-AC750_service_bulletin.txt                       | Rotary Screw Air Compressor              | KTX-AC750       | Service Bulletin
+05_KTX-AC750_operator_quick_reference.txt               | Rotary Screw Air Compressor              | KTX-AC750       | Operator Quick Reference
+06_KTX-WS210_product_manual.txt                         | MIG/TIG Welding System                   | KTX-WS210       | Product Manual
+06_KTX-WS210_installation_guide.txt                     | MIG/TIG Welding System                   | KTX-WS210       | Installation Guide
+06_KTX-WS210_troubleshooting_guide.txt                  | MIG/TIG Welding System                   | KTX-WS210       | Troubleshooting Guide
+06_KTX-WS210_maintenance_schedule.txt                   | MIG/TIG Welding System                   | KTX-WS210       | Maintenance Schedule
+06_KTX-WS210_spare_parts_catalog.txt                    | MIG/TIG Welding System                   | KTX-WS210       | Spare Parts Catalog
+06_KTX-WS210_safety_bulletin.txt                        | MIG/TIG Welding System                   | KTX-WS210       | Safety Bulletin
+06_KTX-WS210_faq.txt                                    | MIG/TIG Welding System                   | KTX-WS210       | FAQ
+06_KTX-WS210_warranty_terms.txt                         | MIG/TIG Welding System                   | KTX-WS210       | Warranty Terms
+06_KTX-WS210_service_bulletin.txt                       | MIG/TIG Welding System                   | KTX-WS210       | Service Bulletin
+06_KTX-WS210_operator_quick_reference.txt               | MIG/TIG Welding System                   | KTX-WS210       | Operator Quick Reference
+07_KTX-IM1200_product_manual.txt                        | Plastic Injection Molding Machine        | KTX-IM1200      | Product Manual
+07_KTX-IM1200_installation_guide.txt                    | Plastic Injection Molding Machine        | KTX-IM1200      | Installation Guide
+07_KTX-IM1200_troubleshooting_guide.txt                 | Plastic Injection Molding Machine        | KTX-IM1200      | Troubleshooting Guide
+07_KTX-IM1200_maintenance_schedule.txt                  | Plastic Injection Molding Machine        | KTX-IM1200      | Maintenance Schedule
+07_KTX-IM1200_spare_parts_catalog.txt                   | Plastic Injection Molding Machine        | KTX-IM1200      | Spare Parts Catalog
+07_KTX-IM1200_safety_bulletin.txt                       | Plastic Injection Molding Machine        | KTX-IM1200      | Safety Bulletin
+07_KTX-IM1200_faq.txt                                   | Plastic Injection Molding Machine        | KTX-IM1200      | FAQ
+07_KTX-IM1200_warranty_terms.txt                        | Plastic Injection Molding Machine        | KTX-IM1200      | Warranty Terms
+07_KTX-IM1200_service_bulletin.txt                      | Plastic Injection Molding Machine        | KTX-IM1200      | Service Bulletin
+07_KTX-IM1200_operator_quick_reference.txt              | Plastic Injection Molding Machine        | KTX-IM1200      | Operator Quick Reference
+08_KTX-VFD450_product_manual.txt                        | Variable Frequency Motor Drive           | KTX-VFD450      | Product Manual
+08_KTX-VFD450_installation_guide.txt                    | Variable Frequency Motor Drive           | KTX-VFD450      | Installation Guide
+08_KTX-VFD450_troubleshooting_guide.txt                 | Variable Frequency Motor Drive           | KTX-VFD450      | Troubleshooting Guide
+08_KTX-VFD450_maintenance_schedule.txt                  | Variable Frequency Motor Drive           | KTX-VFD450      | Maintenance Schedule
+08_KTX-VFD450_spare_parts_catalog.txt                   | Variable Frequency Motor Drive           | KTX-VFD450      | Spare Parts Catalog
+08_KTX-VFD450_safety_bulletin.txt                       | Variable Frequency Motor Drive           | KTX-VFD450      | Safety Bulletin
+08_KTX-VFD450_faq.txt                                   | Variable Frequency Motor Drive           | KTX-VFD450      | FAQ
+08_KTX-VFD450_warranty_terms.txt                        | Variable Frequency Motor Drive           | KTX-VFD450      | Warranty Terms
+08_KTX-VFD450_service_bulletin.txt                      | Variable Frequency Motor Drive           | KTX-VFD450      | Service Bulletin
+08_KTX-VFD450_operator_quick_reference.txt              | Variable Frequency Motor Drive           | KTX-VFD450      | Operator Quick Reference
+09_KTX-PK900_product_manual.txt                         | Automated Palletizing System             | KTX-PK900       | Product Manual
+09_KTX-PK900_installation_guide.txt                     | Automated Palletizing System             | KTX-PK900       | Installation Guide
+09_KTX-PK900_troubleshooting_guide.txt                  | Automated Palletizing System             | KTX-PK900       | Troubleshooting Guide
+09_KTX-PK900_maintenance_schedule.txt                   | Automated Palletizing System             | KTX-PK900       | Maintenance Schedule
+09_KTX-PK900_spare_parts_catalog.txt                    | Automated Palletizing System             | KTX-PK900       | Spare Parts Catalog
+09_KTX-PK900_safety_bulletin.txt                        | Automated Palletizing System             | KTX-PK900       | Safety Bulletin
+09_KTX-PK900_faq.txt                                    | Automated Palletizing System             | KTX-PK900       | FAQ
+09_KTX-PK900_warranty_terms.txt                         | Automated Palletizing System             | KTX-PK900       | Warranty Terms
+09_KTX-PK900_service_bulletin.txt                       | Automated Palletizing System             | KTX-PK900       | Service Bulletin
+09_KTX-PK900_operator_quick_reference.txt               | Automated Palletizing System             | KTX-PK900       | Operator Quick Reference
+10_KTX-WT1100_product_manual.txt                        | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Product Manual
+10_KTX-WT1100_installation_guide.txt                    | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Installation Guide
+10_KTX-WT1100_troubleshooting_guide.txt                 | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Troubleshooting Guide
+10_KTX-WT1100_maintenance_schedule.txt                  | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Maintenance Schedule
+10_KTX-WT1100_spare_parts_catalog.txt                   | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Spare Parts Catalog
+10_KTX-WT1100_safety_bulletin.txt                       | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Safety Bulletin
+10_KTX-WT1100_faq.txt                                   | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | FAQ
+10_KTX-WT1100_warranty_terms.txt                        | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Warranty Terms
+10_KTX-WT1100_service_bulletin.txt                      | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Service Bulletin
+10_KTX-WT1100_operator_quick_reference.txt              | Industrial Water Filtration & Treatment Unit | KTX-WT1100      | Operator Quick Reference

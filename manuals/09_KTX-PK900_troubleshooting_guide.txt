@@ -1,0 +1,35 @@
+Kaltrix Industrial Systems
+==========================
+Troubleshooting Guide
+Product Line: Packaging & End-of-Line Automation
+Model: KTX-PK900
+Document ref: KTX-DOC-KTX-PK900-TRO
+----------------------------------------------------------------------
+
+This guide lists diagnostic codes for the KTX-PK900. All codes use the prefix PK.
+
+1. ERROR CODE REFERENCE
+
+  PK-701: Layer pad dispenser empty — reload required.
+  PK-714: Pallet dispenser jam detected.
+  PK-728: Light curtain interrupted — zone 2.
+  PK-740: Robot pick head vacuum pressure low.
+  PK-755: Stretch wrap film break detected.
+
+2. GENERAL DIAGNOSTIC PROCEDURE
+
+  1. Note the exact error code shown on the display/HMI.
+  2. Check the corresponding entry in Section 1 above.
+  3. Isolate power before inspecting any electrical component.
+  4. If the fault recurs after a reset, contact Kaltrix Technical Support and quote the error code and unit serial number.
+  5. Do not bypass any safety interlock to clear a fault.
+
+3. WHEN TO ESCALATE TO A SERVICE ENGINEER
+
+  Escalate immediately if: the fault repeats more than twice within an hour, any burning smell is present, or the error code is not listed above. Reference the KTX-PK900 Warranty Terms document before authorizing any third-party repair, as unauthorized repair may void coverage.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-PK900 and its direct variants only.

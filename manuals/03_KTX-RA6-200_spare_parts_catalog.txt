@@ -1,0 +1,30 @@
+Kaltrix Industrial Systems
+==========================
+Spare Parts Catalog
+Product Line: Industrial Robotics
+Model: KTX-RA6-200
+Document ref: KTX-DOC-KTX-RA6-200-SPA
+----------------------------------------------------------------------
+
+1. RECOMMENDED SPARE PARTS
+
+  KTX-RA6-J3-MOTOR — Joint 3 servo motor assembly — List Price: INR 5,200
+  KTX-RA6-PENDANT — Teach pendant replacement unit — List Price: INR 21,000
+  KTX-RA6-CABLE-J2J6 — Internal wiring harness, joints 2-6 — List Price: INR 12,400
+  KTX-RA6-BRAKE-J2 — Joint 2 brake module — List Price: INR 5,200
+  KTX-RA6-GRIP-STD — Standard parallel gripper, 200kg rated — List Price: INR 15,800
+
+2. ORDERING INFORMATION
+
+  Orders can be placed via the Kaltrix Customer Portal or by emailing techsupport@kaltrix-industrial.example with the part number, quantity, and the KTX-RA6-200 unit serial number. Standard lead time is 5-10 working days for parts held in the Oragadam warehouse; non-stock items may take 3-4 weeks.
+
+3. MINIMUM RECOMMENDED SPARES HOLDING (for sites with 1-2 units)
+
+  - KTX-RA6-J3-MOTOR: 1 unit on-site recommended
+  - KTX-RA6-PENDANT: 1 unit on-site recommended
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-RA6-200 and its direct variants only.

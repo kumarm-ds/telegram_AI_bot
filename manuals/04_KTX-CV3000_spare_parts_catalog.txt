@@ -1,0 +1,30 @@
+Kaltrix Industrial Systems
+==========================
+Spare Parts Catalog
+Product Line: Material Handling
+Model: KTX-CV3000
+Document ref: KTX-DOC-KTX-CV3000-SPA
+----------------------------------------------------------------------
+
+1. RECOMMENDED SPARE PARTS
+
+  KTX-CV-BELT-900 — Replacement belt section, 900mm, 3m — List Price: INR 12,400
+  KTX-CV-ROLLER-STD — Standard carrying roller, 89mm dia — List Price: INR 9,100
+  KTX-CV-TS2 — Belt tracking sensor — List Price: INR 7,600
+  KTX-CV-VFD7.5 — Variable frequency drive, 7.5kW — List Price: INR 3,800
+  KTX-CV-PULLCORD — Emergency pull-cord switch assembly — List Price: INR 5,200
+
+2. ORDERING INFORMATION
+
+  Orders can be placed via the Kaltrix Customer Portal or by emailing techsupport@kaltrix-industrial.example with the part number, quantity, and the KTX-CV3000 unit serial number. Standard lead time is 5-10 working days for parts held in the Oragadam warehouse; non-stock items may take 3-4 weeks.
+
+3. MINIMUM RECOMMENDED SPARES HOLDING (for sites with 1-2 units)
+
+  - KTX-CV-BELT-900: 1 unit on-site recommended
+  - KTX-CV-ROLLER-STD: 1 unit on-site recommended
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-CV3000 and its direct variants only.

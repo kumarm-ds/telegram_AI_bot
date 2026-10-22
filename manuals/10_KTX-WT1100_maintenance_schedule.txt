@@ -1,0 +1,32 @@
+Kaltrix Industrial Systems
+==========================
+Preventive Maintenance Schedule
+Product Line: Water Treatment Systems
+Model: KTX-WT1100
+Document ref: KTX-DOC-KTX-WT1100-PRE
+----------------------------------------------------------------------
+
+1. MAINTENANCE INTERVALS
+
+  - Daily: Visual inspection for leaks, unusual noise, or vibration.
+  - Weekly: Check and log key operating parameters against baseline.
+  - Monthly: Inspect and clean filters/sensors listed in the Spare Parts Catalog.
+  - Every 500 operating hours: Replace consumable items (see Spare Parts Catalog, Section 1).
+  - Every 2,000 operating hours: Full inspection by a certified Kaltrix service engineer.
+  - Annually: Calibration check of all sensors and safety interlocks.
+
+2. RECOMMENDED CONSUMABLES PER SERVICE CYCLE
+
+  - KTX-WT-SED-FLT: Sediment pre-filter cartridge, 5 micron
+  - KTX-WT-RO-MEM: RO membrane element, 4040 series
+  - KTX-WT-UVLAMP: UV sterilization lamp
+
+3. NOTE
+
+Failure to follow this maintenance schedule for the KTX-WT1100 may affect eligibility for warranty claims. Maintenance records should be retained and made available to Kaltrix service engineers upon request.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-WT1100 and its direct variants only.

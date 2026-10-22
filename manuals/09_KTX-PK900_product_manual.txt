@@ -1,0 +1,39 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: Packaging & End-of-Line Automation
+Model: KTX-PK900
+Document ref: KTX-DOC-KTX-PK900-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-PK900 is a automated palletizing system designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Throughput: 900 cases/hour
+  - Max Pallet Load: 1,500 kg
+  - Layer Formation: Robotic pick-and-place, 4-axis
+  - Pallet Sizes Supported: 1000x1200mm, 1100x1100mm (configurable)
+  - Power Requirement: 415V, 3-phase, 22 kW
+  - Control: Kaltrix PalletLogic PLC + HMI
+  - Safety: Category 3 light curtains, perimeter fencing
+  - Footprint: 6.2m x 4.8m
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-PK900 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-PK900 and its direct variants only.

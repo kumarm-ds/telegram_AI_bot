@@ -1,0 +1,39 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: Compressed Air Systems
+Model: KTX-AC750
+Document ref: KTX-DOC-KTX-AC750-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-AC750 is a rotary screw air compressor designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Free Air Delivery: 128 CFM @ 7.5 bar
+  - Motor Power: 75 kW (100 HP)
+  - Max Working Pressure: 10 bar
+  - Tank Capacity: 500 L (integrated)
+  - Cooling: Air-cooled
+  - Noise Level: 72 dB(A)
+  - Weight: 1,850 kg
+  - Control: Kaltrix AirSense IoT Controller
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-AC750 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-AC750 and its direct variants only.

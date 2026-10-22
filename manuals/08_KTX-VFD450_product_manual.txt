@@ -1,0 +1,39 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: Motor Control & Drives
+Model: KTX-VFD450
+Document ref: KTX-DOC-KTX-VFD450-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-VFD450 is a variable frequency motor drive designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Power Rating: 450 kW
+  - Input Voltage: 380-480V, 3-phase
+  - Output Frequency Range: 0-590 Hz
+  - Overload Capacity: 150% for 60 sec
+  - Cooling: Forced air with internal fan
+  - Protection Rating: IP21 (panel), IP54 optional
+  - Communication: Modbus RTU, Profibus, Ethernet/IP
+  - Weight: 185 kg
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-VFD450 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-VFD450 and its direct variants only.

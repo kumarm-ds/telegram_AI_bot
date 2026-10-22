@@ -1,0 +1,33 @@
+Kaltrix Industrial Systems
+==========================
+Installation & Commissioning Guide
+Product Line: Industrial Robotics
+Model: KTX-RA6-200
+Document ref: KTX-DOC-KTX-RA6-200-INS
+----------------------------------------------------------------------
+
+1. SITE REQUIREMENTS
+
+  - Confirm floor loading capacity meets or exceeds the unit weight listed in the Product Manual.
+  - Ambient conditions must be within the operating range specified for the KTX-RA6-200.
+  - Electrical supply must match: 400V, 3-phase, 15 kVA.
+
+2. COMMISSIONING SEQUENCE
+
+  Step 1: Unpack and inspect the unit for shipping damage. Report any damage to Kaltrix Logistics within 48 hours.
+  Step 2: Position the unit per the foundation/anchor drawing supplied with the shipment.
+  Step 3: Connect main power supply and verify phase rotation before first start.
+  Step 4: Perform a no-load functional test using the Operator Quick Reference Card sequence.
+  Step 5: Record commissioning data (serial number, firmware version, initial readings) in the Kaltrix commissioning log.
+  Step 6: Contact Kaltrix Technical Support to schedule the mandatory 30-day post-commissioning inspection.
+
+3. COMMON COMMISSIONING ISSUES
+
+  - If error RA6-011 appears during first start: Joint 3 servo drive over-temperature.
+  - If error RA6-045 appears during first start: Emergency stop circuit open — check E-stop loop continuity.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-RA6-200 and its direct variants only.

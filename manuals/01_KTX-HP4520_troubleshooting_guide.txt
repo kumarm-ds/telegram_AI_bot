@@ -1,0 +1,35 @@
+Kaltrix Industrial Systems
+==========================
+Troubleshooting Guide
+Product Line: Hydraulic Systems
+Model: KTX-HP4520
+Document ref: KTX-DOC-KTX-HP4520-TRO
+----------------------------------------------------------------------
+
+This guide lists diagnostic codes for the KTX-HP4520. All codes use the prefix HP.
+
+1. ERROR CODE REFERENCE
+
+  HP-101: Reservoir oil level below minimum threshold (sensor LS-1).
+  HP-114: Oil temperature exceeded 68°C — thermal cutoff triggered.
+  HP-207: Pressure transducer PT-2 signal out of range (0.2-4.8V expected).
+  HP-233: Main drive motor overload — check for downstream valve blockage.
+  HP-309: Return line filter differential pressure exceeds 3.5 bar — replace element.
+
+2. GENERAL DIAGNOSTIC PROCEDURE
+
+  1. Note the exact error code shown on the display/HMI.
+  2. Check the corresponding entry in Section 1 above.
+  3. Isolate power before inspecting any electrical component.
+  4. If the fault recurs after a reset, contact Kaltrix Technical Support and quote the error code and unit serial number.
+  5. Do not bypass any safety interlock to clear a fault.
+
+3. WHEN TO ESCALATE TO A SERVICE ENGINEER
+
+  Escalate immediately if: the fault repeats more than twice within an hour, any burning smell is present, or the error code is not listed above. Reference the KTX-HP4520 Warranty Terms document before authorizing any third-party repair, as unauthorized repair may void coverage.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-HP4520 and its direct variants only.

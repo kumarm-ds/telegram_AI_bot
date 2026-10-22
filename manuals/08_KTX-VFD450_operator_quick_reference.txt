@@ -1,0 +1,36 @@
+Kaltrix Industrial Systems
+==========================
+Operator Quick Reference Card
+Product Line: Motor Control & Drives
+Model: KTX-VFD450
+Document ref: KTX-DOC-KTX-VFD450-OPE
+----------------------------------------------------------------------
+
+1. STARTUP SEQUENCE
+
+  1. Confirm all guards and interlocks are in place.
+  2. Switch on main power disconnect.
+  3. Wait for the HMI/controller to complete self-test.
+  4. Confirm no active fault codes are displayed.
+  5. Begin normal operation per the process procedure for your site.
+
+2. NORMAL SHUTDOWN SEQUENCE
+
+  1. Complete or safely interrupt the current cycle.
+  2. Bring the unit to idle/zero-motion state.
+  3. Use the controller's stop function (not the emergency stop) for routine shutdown.
+  4. Switch off main power if the unit will be idle for an extended period.
+
+3. EMERGENCY STOP
+
+  Press any red E-stop button to immediately halt all motion. Refer to the Safety Bulletin for this model before resetting.
+
+4. KEY CONTACTS
+
+  Technical Support: +91-44-6821-0099 / techsupport@kaltrix-industrial.example
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-VFD450 and its direct variants only.

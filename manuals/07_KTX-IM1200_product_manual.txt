@@ -1,0 +1,39 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: Plastics Processing Machinery
+Model: KTX-IM1200
+Document ref: KTX-DOC-KTX-IM1200-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-IM1200 is a plastic injection molding machine designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Clamping Force: 1,200 kN
+  - Screw Diameter: 50 mm
+  - Max Injection Volume: 285 cm³
+  - Injection Pressure: 180 MPa
+  - Platen Size: 710 x 710 mm
+  - Max Mold Height: 500 mm
+  - Drive System: Servo-hydraulic hybrid
+  - Control: Kaltrix MoldLogic HMI
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-IM1200 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-IM1200 and its direct variants only.

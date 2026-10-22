@@ -1,0 +1,32 @@
+Kaltrix Industrial Systems
+==========================
+Warranty Terms & Service Policy
+Product Line: CNC Machine Tools
+Model: KTX-CNC880
+Document ref: KTX-DOC-KTX-CNC880-WAR
+----------------------------------------------------------------------
+
+1. WARRANTY PERIOD
+
+  18 months from the date of commissioning, or 24 months from the date of shipment, whichever occurs first.
+
+2. COVERAGE
+
+  This warranty covers defects in material and workmanship under normal industrial use. It does not cover: damage from failure to follow the Preventive Maintenance Schedule, unauthorized modification, use outside the specifications in the Product Manual, or consumable wear items listed in the Spare Parts Catalog.
+
+3. CLAIM PROCEDURE
+
+  1. Contact Kaltrix Technical Support with the unit serial number and a description of the fault.
+  2. A support engineer will attempt remote diagnosis using the Troubleshooting Guide.
+  3. If a site visit is required, a certified engineer will be dispatched within the region's standard response window.
+  4. Approved warranty repairs are performed at no charge for parts and labor within the coverage period.
+
+4. EXTENDED WARRANTY
+
+  An extended warranty of up to 12 additional months is available for purchase within 60 days of the original warranty expiry. Contact your Kaltrix account manager for pricing.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-CNC880 and its direct variants only.

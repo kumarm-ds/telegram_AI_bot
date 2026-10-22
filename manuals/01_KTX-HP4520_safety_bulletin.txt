@@ -1,0 +1,32 @@
+Kaltrix Industrial Systems
+==========================
+Safety Bulletin
+Product Line: Hydraulic Systems
+Model: KTX-HP4520
+Document ref: KTX-DOC-KTX-HP4520-SAF
+----------------------------------------------------------------------
+
+Bulletin Number: SB-HP-3286
+Classification: Mandatory Read — All Operators
+
+1. SAFETY SUMMARY
+
+All personnel operating the KTX-HP4520 must complete Kaltrix operator safety induction before independent use. Required personal protective equipment (PPE) includes safety glasses, hearing protection where noise levels exceed 80 dB(A), and steel-toe footwear at all times near the unit.
+
+2. LOCKOUT-TAGOUT (LOTO) PROCEDURE
+
+  1. Notify all affected personnel before starting LOTO.
+  2. Shut down the unit using the normal stop procedure.
+  3. Isolate the main electrical disconnect and apply a personal lock and tag.
+  4. Verify zero energy state before beginning any maintenance work.
+  5. Remove lock/tag only after work is complete and the area is confirmed clear.
+
+3. KNOWN HAZARDS SPECIFIC TO THIS MODEL
+
+  Stored hydraulic pressure can remain in the system after shutdown — always relieve pressure via the manual bleed valve before disconnecting any line.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-HP4520 and its direct variants only.

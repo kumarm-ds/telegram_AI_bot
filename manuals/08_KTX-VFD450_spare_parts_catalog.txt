@@ -1,0 +1,30 @@
+Kaltrix Industrial Systems
+==========================
+Spare Parts Catalog
+Product Line: Motor Control & Drives
+Model: KTX-VFD450
+Document ref: KTX-DOC-KTX-VFD450-SPA
+----------------------------------------------------------------------
+
+1. RECOMMENDED SPARE PARTS
+
+  KTX-VFD-FAN1 — Cooling fan assembly — List Price: INR 7,600
+  KTX-VFD-CAP-BUS — DC bus capacitor module — List Price: INR 2,400
+  KTX-VFD-EIPCARD — Ethernet/IP communication card — List Price: INR 3,800
+  KTX-VFD-IGBT-450 — IGBT power module, 450kW rated — List Price: INR 21,000
+  KTX-VFD-FILTER-EMC — EMC input filter — List Price: INR 5,200
+
+2. ORDERING INFORMATION
+
+  Orders can be placed via the Kaltrix Customer Portal or by emailing techsupport@kaltrix-industrial.example with the part number, quantity, and the KTX-VFD450 unit serial number. Standard lead time is 5-10 working days for parts held in the Oragadam warehouse; non-stock items may take 3-4 weeks.
+
+3. MINIMUM RECOMMENDED SPARES HOLDING (for sites with 1-2 units)
+
+  - KTX-VFD-FAN1: 1 unit on-site recommended
+  - KTX-VFD-CAP-BUS: 1 unit on-site recommended
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-VFD450 and its direct variants only.

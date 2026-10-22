@@ -1,0 +1,28 @@
+Kaltrix Industrial Systems
+==========================
+Technical Service Bulletin
+Product Line: CNC Machine Tools
+Model: KTX-CNC880
+Document ref: KTX-DOC-KTX-CNC880-TEC
+----------------------------------------------------------------------
+
+Bulletin: TSB-CNC-617
+Affected Serial Range: KTX-CNC880-3465 to KTX-CNC880-5217
+
+1. ISSUE DESCRIPTION
+
+  Units within the affected serial range may intermittently display error CNC-512 (Battery backup low on absolute encoder — replace within 72 hours.) under sustained heavy-duty operation. This is caused by a batch variance in a supplier component identified during routine quality review.
+
+2. RECOMMENDED ACTION
+
+  Kaltrix-certified engineers should inspect affected units at the next scheduled maintenance visit. No immediate shutdown is required unless the fault is actively occurring. Replacement parts are available at no charge for units still within the warranty period; reference the Spare Parts Catalog for the relevant part number.
+
+3. CUSTOMER ACTION REQUIRED
+
+  Check your unit's serial number against the affected range above. If your unit falls within this range, contact Kaltrix Technical Support at techsupport@kaltrix-industrial.example to schedule an inspection.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-CNC880 and its direct variants only.

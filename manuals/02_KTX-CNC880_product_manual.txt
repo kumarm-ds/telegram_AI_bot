@@ -1,0 +1,40 @@
+Kaltrix Industrial Systems
+==========================
+Product Manual
+Product Line: CNC Machine Tools
+Model: KTX-CNC880
+Document ref: KTX-DOC-KTX-CNC880-PRO
+----------------------------------------------------------------------
+
+1. OVERVIEW
+
+The Kaltrix KTX-CNC880 is a cnc vertical machining center designed for continuous-duty industrial operation in engineering and manufacturing facilities. It is engineered and assembled at the Kaltrix facility in Oragadam, Tamil Nadu, and is certified for use in demanding production environments.
+
+2. TECHNICAL SPECIFICATIONS
+
+  - Table Size: 1000 x 500 mm
+  - X/Y/Z Travel: 800 / 500 / 550 mm
+  - Spindle Speed: 12,000 RPM max
+  - Spindle Motor: 15 kW, direct drive
+  - Positioning Accuracy: ±0.005 mm
+  - Tool Magazine Capacity: 24 stations
+  - Rapid Traverse Rate: 36 m/min (X/Y), 24 m/min (Z)
+  - Controller: Kaltrix NextGen CNC-9 (Fanuc-compatible G-code)
+  - Weight: 6,400 kg
+
+3. STANDARD ACCESSORIES INCLUDED
+
+  - Operator quick reference card
+  - Startup toolkit
+  - 5-metre power supply cable
+  - Digital copy of full documentation set (USB)
+
+4. INTENDED USE
+
+The KTX-CNC880 is intended for use by trained personnel in industrial settings only. It must not be operated outside the parameters listed in Section 2 above. Any modification voids the Kaltrix warranty described in the Warranty Terms document for this model.
+
+----------------------------------------------------------------------
+For further assistance contact Kaltrix Industrial Systems Technical Support.
+Email: techsupport@kaltrix-industrial.example | Phone: +91-44-6821-0099
+Kaltrix Industrial Systems HQ: Plot 14, Sipcot Industrial Park, Oragadam, Tamil Nadu, India
+This document applies to model KTX-CNC880 and its direct variants only.
