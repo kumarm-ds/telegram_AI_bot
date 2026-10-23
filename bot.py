@@ -2,12 +2,15 @@
 import asyncio
 import logging
 import os
+import re
+import threading
 from pathlib import Path
 from google import genai
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, ContextTypes, MessageHandler, filters
 from knowledge import load_manuals, search
 from storage import Store
+from dashboard import run_dashboard
 
 logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger('httpcore').setLevel(logging.WARNING)
@@ -67,6 +70,29 @@ async def manual_answer(question):
     citations = '\n\nSources: ' + ', '.join(sources)
     return answer[:max(1, 3900 - len(citations))] + citations
 
+# Handle simple greetings locally without calling Gemini or searching manuals.
+# Full-string matching prevents technical questions such as "Hi, what is HP4520 warranty?"
+# from being mistaken for greeting-only messages.
+GREETING_PATTERN = re.compile(
+    r"(?:hi|hello|hey|good\s+morning|good\s+afternoon|good\s+evening|greetings|namaste)"
+    r"(?:[!.,\s]*|\s+there[!.,\s]*)",
+    re.IGNORECASE,
+)
+THANKS_PATTERN = re.compile(r"(?:thanks|thank\s+you|thankyou|thx)[!.,\s]*", re.IGNORECASE)
+BYE_PATTERN = re.compile(r"(?:bye|goodbye|see\s+you)[!.,\s]*", re.IGNORECASE)
+
+def courtesy_reply(message):
+    text = message.strip()
+    if GREETING_PATTERN.fullmatch(text):
+        return ('Hello! Welcome to Kaltrix Industrial Technical Support. '
+                'How can I help you? You can ask about our product manuals, '
+                'maintenance, troubleshooting, or warranty information.')
+    if THANKS_PATTERN.fullmatch(text):
+        return 'You’re welcome! Let me know if you have another question about the manuals.'
+    if BYE_PATTERN.fullmatch(text):
+        return 'Goodbye! Feel free to return whenever you need help with the manuals.'
+    return None
+
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_chat.type != 'private':
         return
@@ -79,6 +105,7 @@ async def end_session(user_id, context, notify_admin=True):
     if not store.active(user_id):
         return False
     store.set_active(user_id, False)
+    store.log(user_id, 'system', 'support_closed', 'Human support session ended')
     await context.bot.send_message(user_id, 'Human support ended. Your next question will go to the AI assistant.')
     if notify_admin:
         try:
@@ -104,6 +131,7 @@ async def admin_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await end_session(user_id, context, notify_admin=False)
         await msg.reply_text('Support session closed.')
     elif msg.text:
+        store.log(user_id, 'admin', 'human_reply', msg.text)
         await context.bot.send_message(user_id, f'Administrator: {msg.text}')
         await msg.reply_text('Delivered to user.')
     else:
@@ -125,28 +153,40 @@ async def test_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not question:
         await update.message.reply_text('Usage: /test Explain the warranty terms of HP4520')
         return
+    store.log(ADMIN_ID, 'admin', 'ai_test_question', question)
     try:
         answer = await manual_answer(question)
     except Exception:
         log.exception('Gemini test request failed')
+        store.log(ADMIN_ID, 'system', 'ai_error', 'Gemini test request failed')
         await update.message.reply_text('The AI service is temporarily unavailable. Please try again later.')
         return
+    store.log(ADMIN_ID, 'gemini', 'ai_test_answer', answer)
     await update.message.reply_text(answer)
 
 async def user_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = update.message
     user_id = update.effective_chat.id
     if store.active(user_id):
+        store.log(user_id, 'user', 'human_message', msg.text)
         notice = await context.bot.send_message(ADMIN_ID, f'User {user_id} says:\n{msg.text}\n\nReply to this message to answer.')
         store.route(notice.message_id, user_id)
         await msg.reply_text('Your message was forwarded to the administrator. Use /close to return to AI.', reply_markup=END_BUTTON)
+        return
+    store.log(user_id, 'user', 'ai_question', msg.text)
+    greeting = courtesy_reply(msg.text)
+    if greeting is not None:
+        store.log(user_id, 'bot', 'greeting_reply', greeting)
+        await msg.reply_text(greeting)
         return
     try:
         answer = await manual_answer(msg.text)
     except Exception:
         log.exception('Gemini request failed')
+        store.log(user_id, 'system', 'ai_error', 'Gemini request failed')
         await msg.reply_text('The AI service is temporarily unavailable. Please try again later.')
         return
+    store.log(user_id, 'gemini', 'ai_answer', answer)
     if answer == FALLBACK:
         await msg.reply_text(FALLBACK, reply_markup=SUPPORT_BUTTON)
     else:
@@ -169,6 +209,7 @@ async def support_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
     store.route(notice.message_id, user_id)
     store.set_active(user_id, True)
+    store.log(user_id, 'system', 'support_opened', 'User requested human support')
     await query.message.reply_text('Human support requested. Messages now go to the administrator. Use /close or the button below to return to AI.', reply_markup=END_BUTTON)
 
 async def end_support_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -194,6 +235,8 @@ async def error_handler(update, context):
 def main():
     if not manuals:
         log.warning('No manual passages loaded. All questions will return the fallback.')
+    threading.Thread(target=run_dashboard, args=(store,), daemon=True, name='dashboard').start()
+    log.info('Starting web dashboard on Railway PORT')
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler('start', start))
     app.add_handler(CommandHandler('close', close_command))
